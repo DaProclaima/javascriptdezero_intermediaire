@@ -1,0 +1,10 @@
+{
+  "name": "projet1",
+  "version": "1.0.0",
+  "description": "project1",
+  "main": "index.html",
+  "repository": "https://github.com/DaProclaima/javascriptdezero_intermediaire",
+  "author": "DaProclaima",
+  "license": "MIT",
+  "private": false
+}
